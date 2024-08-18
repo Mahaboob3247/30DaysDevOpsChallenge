@@ -1,5 +1,16 @@
 what is DevOps?
-
 DevOps is a combination of development team and operational team where they work together with communication and collaboration.   
 to faster the software development process . with the help of Automating each and ever task from build to deployment phase . 
 continues integration and continues delivery  to make business faster .
+
+**Continues integration :** 
+
+it a automated process in DevOps . It generates software products quickly and efficiently  
+
+Developers develop the code continuously several times in a day them use to store a code a place called repository GITHUB they pull and push code several times in a day . 
+how ever they push new changes that code would be automatically pull to (build phase )or build server . 
+This would be build , test and evaluated the code and it would generate the software or we call it (artifact) . 
+These artifact or a software  will be stored in software repository  . 
+Based on the programing language these artifact will be package in specific format in JAVA (jar/war) , WINDOWS (DELL/EXE/MSI) and   (ZIP/TAR) . 
+It from repository that would be send to further testing . after deploy a software on the server . software tester would conduct further testing once they approve . 
+that would be send to a production server
