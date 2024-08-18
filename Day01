@@ -13,4 +13,4 @@ This would be build , test and evaluated the code and it would generate the soft
 These artifact or a software  will be stored in software repository  . 
 Based on the programing language these artifact will be package in specific format in JAVA (jar/war) , WINDOWS (DELL/EXE/MSI) and   (ZIP/TAR) . 
 It from repository that would be send to further testing . after deploy a software on the server . software tester would conduct further testing once they approve . 
-that would be send to a production server
+that would be send to a production server.
